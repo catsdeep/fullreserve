@@ -1,5 +1,5 @@
 wget --recursive --adjust-extension http\://fullreserve.nl # output in INPUT_LOG
-cd fullreserve.nl; python3 -m http.server
+python3 -m http.server
 # Handmatige acties:
 find . -regex '.*[?].*' # wget plakt querystring aan bestandsnaam vast. Verwijderen...
 find . -name "*.html" # handmatig links fixen
