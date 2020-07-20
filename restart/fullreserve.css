@@ -1,0 +1,31 @@
+.newsletter-block .btn.btn-primary {
+    background-color: #f1592a;
+    border-color: #f1592a !important;
+}
+.btn-primary {
+    background-color: #f1592a;
+    border-color: #f1592a !important;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background-color: rgba(251, 89, 42, 0.8);
+    border-color: #f1592a;
+}
+
+.team_member {
+    background-image: url('/fullreserve/images/pijltjes.jpg');
+}
+.team_member p.short_bio {
+    font-size: 13px;
+}
+.team_member h5 {
+    font-size: 17px;
+    margin: 24px -20px 6px;
+}
+
+.newsletter-block {
+    background-color: #265B8D;
+    padding: 15px 30px;
+}
+footer.homepage .newsletter-block{
+    background-color: transparent;
+}

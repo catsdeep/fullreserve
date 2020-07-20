@@ -1,0 +1,1316 @@
+1: wget --recursive --adjust-extension http\://fullreserve.nl
+--2020-07-20 11:09:01--  http://fullreserve.nl/
+Herleiden van fullreserve.nl (fullreserve.nl)... 188.226.246.185
+Verbinding maken met fullreserve.nl (fullreserve.nl)|188.226.246.185|:80... verbonden.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: niet-opgegeven [text/html]
+Wordt opgeslagen als: ‘fullreserve.nl/index.html’
+
+fullreserve.nl/index.html                                                          [ <=>                                                                                                                                                                                               ]  13,29K  --.-KB/s    in 0,004s  
+
+2020-07-20 11:09:04 (3,12 MB/s) - '‘fullreserve.nl/index.html’' opgeslagen [13609]
+
+Laden van 'robots.txt'; fouten kunnen worden genegeerd.
+--2020-07-20 11:09:04--  http://fullreserve.nl/robots.txt
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 106 [text/plain]
+Wordt opgeslagen als: ‘fullreserve.nl/robots.txt’
+
+fullreserve.nl/robots.txt                                                      100%[==================================================================================================================================================================================================>]     106  --.-KB/s    in 0s      
+
+2020-07-20 11:09:04 (12,6 MB/s) - '‘fullreserve.nl/robots.txt’' opgeslagen [106/106]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/restart/animate.css
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 57094 (56K) [text/css]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/animate.css’
+
+fullreserve.nl/restart/animate.css                                             100%[==================================================================================================================================================================================================>]  55,76K  --.-KB/s    in 0,02s   
+
+2020-07-20 11:09:04 (3,10 MB/s) - '‘fullreserve.nl/restart/animate.css’' opgeslagen [57094/57094]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/restart/js/woothemes-FlexSlider-06b12f8/flexslider.css
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 3746 (3,7K) [text/css]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/woothemes-FlexSlider-06b12f8/flexslider.css’
+
+fullreserve.nl/restart/js/woothemes-FlexSlider-06b12f8/flexslider.css          100%[==================================================================================================================================================================================================>]   3,66K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:04 (275 MB/s) - '‘fullreserve.nl/restart/js/woothemes-FlexSlider-06b12f8/flexslider.css’' opgeslagen [3746/3746]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/prettyPhoto.css
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 19757 (19K) [text/css]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/prettyPhoto.css’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/prettyPhoto.css                    100%[==================================================================================================================================================================================================>]  19,29K  --.-KB/s    in 0,003s  
+
+2020-07-20 11:09:04 (6,40 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/prettyPhoto.css’' opgeslagen [19757/19757]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/restart/style.css
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 191274 (187K) [text/css]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/style.css’
+
+fullreserve.nl/restart/style.css                                               100%[==================================================================================================================================================================================================>] 186,79K  --.-KB/s    in 0,04s   
+
+2020-07-20 11:09:04 (5,10 MB/s) - '‘fullreserve.nl/restart/style.css’' opgeslagen [191274/191274]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/restart/fullreserve.css
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 760 [text/css]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/fullreserve.css’
+
+fullreserve.nl/restart/fullreserve.css                                         100%[==================================================================================================================================================================================================>]     760  --.-KB/s    in 0s      
+
+2020-07-20 11:09:04 (90,6 MB/s) - '‘fullreserve.nl/restart/fullreserve.css’' opgeslagen [760/760]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/restart/fonts/font-awesome/css/font-awesome.min.css
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 18458 (18K) [text/css]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/fonts/font-awesome/css/font-awesome.min.css’
+
+fullreserve.nl/restart/fonts/font-awesome/css/font-awesome.min.css             100%[==================================================================================================================================================================================================>]  18,03K  --.-KB/s    in 0,003s  
+
+2020-07-20 11:09:04 (6,90 MB/s) - '‘fullreserve.nl/restart/fonts/font-awesome/css/font-awesome.min.css’' opgeslagen [18458/18458]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/restart/js/modernizr.custom.48287.js
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 15156 (15K) [application/javascript]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/modernizr.custom.48287.js’
+
+fullreserve.nl/restart/js/modernizr.custom.48287.js                            100%[==================================================================================================================================================================================================>]  14,80K  --.-KB/s    in 0,002s  
+
+2020-07-20 11:09:04 (6,84 MB/s) - '‘fullreserve.nl/restart/js/modernizr.custom.48287.js’' opgeslagen [15156/15156]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/favicon.ico
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1150 (1,1K) [image/vnd.microsoft.icon]
+Wordt opgeslagen als: ‘fullreserve.nl/favicon.ico’
+
+fullreserve.nl/favicon.ico                                                     100%[==================================================================================================================================================================================================>]   1,12K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:04 (219 MB/s) - '‘fullreserve.nl/favicon.ico’' opgeslagen [1150/1150]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/template/icons/apple-icon-57x57.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 2208 (2,2K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/template/icons/apple-icon-57x57.png’
+
+fullreserve.nl/template/icons/apple-icon-57x57.png                             100%[==================================================================================================================================================================================================>]   2,16K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:04 (301 MB/s) - '‘fullreserve.nl/template/icons/apple-icon-57x57.png’' opgeslagen [2208/2208]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/template/icons/apple-icon-114x114.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 3614 (3,5K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/template/icons/apple-icon-114x114.png’
+
+fullreserve.nl/template/icons/apple-icon-114x114.png                           100%[==================================================================================================================================================================================================>]   3,53K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:04 (123 MB/s) - '‘fullreserve.nl/template/icons/apple-icon-114x114.png’' opgeslagen [3614/3614]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/template/icons/apple-icon-180x180.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 6246 (6,1K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/template/icons/apple-icon-180x180.png’
+
+fullreserve.nl/template/icons/apple-icon-180x180.png                           100%[==================================================================================================================================================================================================>]   6,10K  --.-KB/s    in 0,002s  
+
+2020-07-20 11:09:04 (2,80 MB/s) - '‘fullreserve.nl/template/icons/apple-icon-180x180.png’' opgeslagen [6246/6246]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/template/icons/android-icon-192x192.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 5182 (5,1K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/template/icons/android-icon-192x192.png’
+
+fullreserve.nl/template/icons/android-icon-192x192.png                         100%[==================================================================================================================================================================================================>]   5,06K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:04 (12,6 MB/s) - '‘fullreserve.nl/template/icons/android-icon-192x192.png’' opgeslagen [5182/5182]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/template/icons/favicon-32x32.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1578 (1,5K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/template/icons/favicon-32x32.png’
+
+fullreserve.nl/template/icons/favicon-32x32.png                                100%[==================================================================================================================================================================================================>]   1,54K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:04 (301 MB/s) - '‘fullreserve.nl/template/icons/favicon-32x32.png’' opgeslagen [1578/1578]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/template/icons/favicon-16x16.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1260 (1,2K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/template/icons/favicon-16x16.png’
+
+fullreserve.nl/template/icons/favicon-16x16.png                                100%[==================================================================================================================================================================================================>]   1,23K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:04 (200 MB/s) - '‘fullreserve.nl/template/icons/favicon-16x16.png’' opgeslagen [1260/1260]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/template/images/fullreserve-logo.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 9588 (9,4K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/template/images/fullreserve-logo.png’
+
+fullreserve.nl/template/images/fullreserve-logo.png                            100%[==================================================================================================================================================================================================>]   9,36K  --.-KB/s    in 0,001s  
+
+2020-07-20 11:09:04 (9,45 MB/s) - '‘fullreserve.nl/template/images/fullreserve-logo.png’' opgeslagen [9588/9588]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/page/missie
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: niet-opgegeven [text/html]
+Wordt opgeslagen als: ‘fullreserve.nl/page/missie.html’
+
+fullreserve.nl/page/missie.html                                                    [ <=>                                                                                                                                                                                               ]  10,38K  --.-KB/s    in 0,001s  
+
+2020-07-20 11:09:04 (7,22 MB/s) - '‘fullreserve.nl/page/missie.html’' opgeslagen [10632]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/page/bestuur
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: niet-opgegeven [text/html]
+Wordt opgeslagen als: ‘fullreserve.nl/page/bestuur.html’
+
+fullreserve.nl/page/bestuur.html                                                   [ <=>                                                                                                                                                                                               ]   9,64K  --.-KB/s    in 0,001s  
+
+2020-07-20 11:09:04 (7,76 MB/s) - '‘fullreserve.nl/page/bestuur.html’' opgeslagen [9875]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/page/depositobank
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: niet-opgegeven [text/html]
+Wordt opgeslagen als: ‘fullreserve.nl/page/depositobank.html’
+
+fullreserve.nl/page/depositobank.html                                              [ <=>                                                                                                                                                                                               ]   8,96K  --.-KB/s    in 0,001s  
+
+2020-07-20 11:09:04 (8,27 MB/s) - '‘fullreserve.nl/page/depositobank.html’' opgeslagen [9179]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/page/motiefullreserve
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: niet-opgegeven [text/html]
+Wordt opgeslagen als: ‘fullreserve.nl/page/motiefullreserve.html’
+
+fullreserve.nl/page/motiefullreserve.html                                          [ <=>                                                                                                                                                                                               ]  14,47K  --.-KB/s    in 0,003s  
+
+2020-07-20 11:09:04 (4,86 MB/s) - '‘fullreserve.nl/page/motiefullreserve.html’' opgeslagen [14818]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/blog/
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: niet-opgegeven [text/html]
+Wordt opgeslagen als: ‘fullreserve.nl/blog/index.html’
+
+fullreserve.nl/blog/index.html                                                     [ <=>                                                                                                                                                                                               ]  11,39K  --.-KB/s    in 0,002s  
+
+2020-07-20 11:09:04 (6,64 MB/s) - '‘fullreserve.nl/blog/index.html’' opgeslagen [11666]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/media/
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: niet-opgegeven [text/html]
+Wordt opgeslagen als: ‘fullreserve.nl/media/index.html’
+
+fullreserve.nl/media/index.html                                                    [ <=>                                                                                                                                                                                               ]  45,29K  --.-KB/s    in 0,008s  
+
+2020-07-20 11:09:04 (5,30 MB/s) - '‘fullreserve.nl/media/index.html’' opgeslagen [46380]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/contact
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: niet-opgegeven [text/html]
+Wordt opgeslagen als: ‘fullreserve.nl/contact.html’
+
+fullreserve.nl/contact.html                                                        [ <=>                                                                                                                                                                                               ]  13,04K  --.-KB/s    in 0,002s  
+
+2020-07-20 11:09:04 (6,03 MB/s) - '‘fullreserve.nl/contact.html’' opgeslagen [13350]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/fullreserve/contentimg/Home.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 383930 (375K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/fullreserve/contentimg/Home.jpg’
+
+fullreserve.nl/fullreserve/contentimg/Home.jpg                                 100%[==================================================================================================================================================================================================>] 374,93K  --.-KB/s    in 0,07s   
+
+2020-07-20 11:09:04 (5,07 MB/s) - '‘fullreserve.nl/fullreserve/contentimg/Home.jpg’' opgeslagen [383930/383930]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/images/media/cropped/908c49a7de1526efa77d5d979c11ab652f4d8c40.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 173624 (170K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/908c49a7de1526efa77d5d979c11ab652f4d8c40.png’
+
+fullreserve.nl/images/media/cropped/908c49a7de1526efa77d5d979c11ab652f4d8c40.p 100%[==================================================================================================================================================================================================>] 169,55K  --.-KB/s    in 0,03s   
+
+2020-07-20 11:09:04 (5,13 MB/s) - '‘fullreserve.nl/images/media/cropped/908c49a7de1526efa77d5d979c11ab652f4d8c40.png’' opgeslagen [173624/173624]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/images/media/cropped/9cce24237eb75e8d8b88486efcc0e79f4b31361c.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 37472 (37K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/9cce24237eb75e8d8b88486efcc0e79f4b31361c.png’
+
+fullreserve.nl/images/media/cropped/9cce24237eb75e8d8b88486efcc0e79f4b31361c.p 100%[==================================================================================================================================================================================================>]  36,59K  --.-KB/s    in 0,006s  
+
+2020-07-20 11:09:04 (5,72 MB/s) - '‘fullreserve.nl/images/media/cropped/9cce24237eb75e8d8b88486efcc0e79f4b31361c.png’' opgeslagen [37472/37472]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/images/media/cropped/b79efa1c6fc554c560c898097d5fbeb14cbb284f.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 96659 (94K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/b79efa1c6fc554c560c898097d5fbeb14cbb284f.jpg’
+
+fullreserve.nl/images/media/cropped/b79efa1c6fc554c560c898097d5fbeb14cbb284f.j 100%[==================================================================================================================================================================================================>]  94,39K  --.-KB/s    in 0,02s   
+
+2020-07-20 11:09:04 (5,20 MB/s) - '‘fullreserve.nl/images/media/cropped/b79efa1c6fc554c560c898097d5fbeb14cbb284f.jpg’' opgeslagen [96659/96659]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/restart/js/jquery-1.9.0.min.js
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 93071 (91K) [application/javascript]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/jquery-1.9.0.min.js’
+
+fullreserve.nl/restart/js/jquery-1.9.0.min.js                                  100%[==================================================================================================================================================================================================>]  90,89K  --.-KB/s    in 0,02s   
+
+2020-07-20 11:09:04 (5,20 MB/s) - '‘fullreserve.nl/restart/js/jquery-1.9.0.min.js’' opgeslagen [93071/93071]
+
+--2020-07-20 11:09:04--  http://fullreserve.nl/restart/twitter-bootstrap/js/bootstrap.min.js
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 35951 (35K) [application/javascript]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/twitter-bootstrap/js/bootstrap.min.js’
+
+fullreserve.nl/restart/twitter-bootstrap/js/bootstrap.min.js                   100%[==================================================================================================================================================================================================>]  35,11K  --.-KB/s    in 0,006s  
+
+2020-07-20 11:09:05 (5,46 MB/s) - '‘fullreserve.nl/restart/twitter-bootstrap/js/bootstrap.min.js’' opgeslagen [35951/35951]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/woothemes-FlexSlider-06b12f8/jquery.flexslider-min.js
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 16845 (16K) [application/javascript]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/woothemes-FlexSlider-06b12f8/jquery.flexslider-min.js’
+
+fullreserve.nl/restart/js/woothemes-FlexSlider-06b12f8/jquery.flexslider-min.j 100%[==================================================================================================================================================================================================>]  16,45K  --.-KB/s    in 0,003s  
+
+2020-07-20 11:09:05 (6,39 MB/s) - '‘fullreserve.nl/restart/js/woothemes-FlexSlider-06b12f8/jquery.flexslider-min.js’' opgeslagen [16845/16845]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/jquery.prettyPhoto.js
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 22066 (22K) [application/javascript]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/jquery.prettyPhoto.js’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/jquery.prettyPhoto.js              100%[==================================================================================================================================================================================================>]  21,55K  --.-KB/s    in 0,003s  
+
+2020-07-20 11:09:05 (6,02 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/jquery.prettyPhoto.js’' opgeslagen [22066/22066]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/isotope/jquery.isotope.min.js
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 15964 (16K) [application/javascript]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/isotope/jquery.isotope.min.js’
+
+fullreserve.nl/restart/js/isotope/jquery.isotope.min.js                        100%[==================================================================================================================================================================================================>]  15,59K  --.-KB/s    in 0,002s  
+
+2020-07-20 11:09:05 (7,23 MB/s) - '‘fullreserve.nl/restart/js/isotope/jquery.isotope.min.js’' opgeslagen [15964/15964]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/jquery.ui.totop.js
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1851 (1,8K) [application/javascript]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/jquery.ui.totop.js’
+
+fullreserve.nl/restart/js/jquery.ui.totop.js                                   100%[==================================================================================================================================================================================================>]   1,81K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (252 MB/s) - '‘fullreserve.nl/restart/js/jquery.ui.totop.js’' opgeslagen [1851/1851]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/easing.js
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 4900 (4,8K) [application/javascript]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/easing.js’
+
+fullreserve.nl/restart/js/easing.js                                            100%[==================================================================================================================================================================================================>]   4,79K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (12,6 MB/s) - '‘fullreserve.nl/restart/js/easing.js’' opgeslagen [4900/4900]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/wow.min.js
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 3011 (2,9K) [application/javascript]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/wow.min.js’
+
+fullreserve.nl/restart/js/wow.min.js                                           100%[==================================================================================================================================================================================================>]   2,94K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (287 MB/s) - '‘fullreserve.nl/restart/js/wow.min.js’' opgeslagen [3011/3011]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/snap.svg-min.js
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 66994 (65K) [application/javascript]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/snap.svg-min.js’
+
+fullreserve.nl/restart/js/snap.svg-min.js                                      100%[==================================================================================================================================================================================================>]  65,42K  --.-KB/s    in 0,01s   
+
+2020-07-20 11:09:05 (5,16 MB/s) - '‘fullreserve.nl/restart/js/snap.svg-min.js’' opgeslagen [66994/66994]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/restart_theme.js
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 15659 (15K) [application/javascript]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/restart_theme.js’
+
+fullreserve.nl/restart/js/restart_theme.js                                     100%[==================================================================================================================================================================================================>]  15,29K  --.-KB/s    in 0,002s  
+
+2020-07-20 11:09:05 (6,67 MB/s) - '‘fullreserve.nl/restart/js/restart_theme.js’' opgeslagen [15659/15659]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/collapser.js
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 250 [application/javascript]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/collapser.js’
+
+fullreserve.nl/restart/js/collapser.js                                         100%[==================================================================================================================================================================================================>]     250  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (39,7 MB/s) - '‘fullreserve.nl/restart/js/collapser.js’' opgeslagen [250/250]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/woothemes-FlexSlider-06b12f8/images/bg_direction_nav.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1866 (1,8K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/woothemes-FlexSlider-06b12f8/images/bg_direction_nav.png’
+
+fullreserve.nl/restart/js/woothemes-FlexSlider-06b12f8/images/bg_direction_nav 100%[==================================================================================================================================================================================================>]   1,82K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (356 MB/s) - '‘fullreserve.nl/restart/js/woothemes-FlexSlider-06b12f8/images/bg_direction_nav.png’' opgeslagen [1866/1866]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 6682 (6,5K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite. 100%[==================================================================================================================================================================================================>]   6,53K  --.-KB/s    in 0,001s  
+
+2020-07-20 11:09:05 (9,25 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite.png’' opgeslagen [6682/6682]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_x.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1097 (1,1K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_x.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_ 100%[==================================================================================================================================================================================================>]   1,07K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (209 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_x.png’' opgeslagen [1097/1097]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_y.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1162 (1,1K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_y.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_ 100%[==================================================================================================================================================================================================>]   1,13K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (222 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_y.png’' opgeslagen [1162/1162]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_next.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1358 (1,3K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_next.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_ 100%[==================================================================================================================================================================================================>]   1,33K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (259 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_next.png’' opgeslagen [1358/1358]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_prev.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1376 (1,3K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_prev.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_ 100%[==================================================================================================================================================================================================>]   1,34K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (187 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/sprite_prev.png’' opgeslagen [1376/1376]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/default_thumb.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1537 (1,5K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/default_thumb.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/default 100%[==================================================================================================================================================================================================>]   1,50K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (244 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/default_thumb.png’' opgeslagen [1537/1537]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/loader.gif
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 6331 (6,2K) [image/gif]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/loader.gif’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/loader. 100%[==================================================================================================================================================================================================>]   6,18K  --.-KB/s    in 0,001s  
+
+2020-07-20 11:09:05 (9,77 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/default/loader.gif’' opgeslagen [6331/6331]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/sprite.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 4099 (4,0K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/sprite.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/s 100%[==================================================================================================================================================================================================>]   4,00K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (22,9 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/sprite.png’' opgeslagen [4099/4099]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/btnNext.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1411 (1,4K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/btnNext.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/b 100%[==================================================================================================================================================================================================>]   1,38K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (224 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/btnNext.png’' opgeslagen [1411/1411]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/btnPrevious.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1442 (1,4K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/btnPrevious.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/b 100%[==================================================================================================================================================================================================>]   1,41K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (172 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/btnPrevious.png’' opgeslagen [1442/1442]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/sprite.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 4076 (4,0K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/sprite.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/sp 100%[==================================================================================================================================================================================================>]   3,98K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (99,7 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/sprite.png’' opgeslagen [4076/4076]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/contentPattern.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 130 [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/contentPattern.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/co 100%[==================================================================================================================================================================================================>]     130  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (20,7 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/contentPattern.png’' opgeslagen [130/130]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/btnNext.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1411 (1,4K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/btnNext.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/bt 100%[==================================================================================================================================================================================================>]   1,38K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (336 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/btnNext.png’' opgeslagen [1411/1411]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/btnPrevious.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1442 (1,4K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/btnPrevious.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/bt 100%[==================================================================================================================================================================================================>]   1,41K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (275 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/btnPrevious.png’' opgeslagen [1442/1442]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/loader.gif
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 2545 (2,5K) [image/gif]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/loader.gif’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/lo 100%[==================================================================================================================================================================================================>]   2,49K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (405 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_rounded/loader.gif’' opgeslagen [2545/2545]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/loader.gif
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 2545 (2,5K) [image/gif]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/loader.gif’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/loa 100%[==================================================================================================================================================================================================>]   2,49K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (347 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/loader.gif’' opgeslagen [2545/2545]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/sprite.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 3507 (3,4K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/sprite.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/spr 100%[==================================================================================================================================================================================================>]   3,42K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (17,4 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/sprite.png’' opgeslagen [3507/3507]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/btnNext.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1411 (1,4K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/btnNext.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/btn 100%[==================================================================================================================================================================================================>]   1,38K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (224 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/btnNext.png’' opgeslagen [1411/1411]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/btnPrevious.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1442 (1,4K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/btnPrevious.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/btn 100%[==================================================================================================================================================================================================>]   1,41K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (344 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/dark_square/btnPrevious.png’' opgeslagen [1442/1442]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_square/sprite.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 3507 (3,4K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_square/sprite.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_square/sp 100%[==================================================================================================================================================================================================>]   3,42K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (48,5 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_square/sprite.png’' opgeslagen [3507/3507]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_square/btnNext.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1411 (1,4K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_square/btnNext.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_square/bt 100%[==================================================================================================================================================================================================>]   1,38K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (269 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_square/btnNext.png’' opgeslagen [1411/1411]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_square/btnPrevious.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1442 (1,4K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_square/btnPrevious.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_square/bt 100%[==================================================================================================================================================================================================>]   1,41K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (344 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_square/btnPrevious.png’' opgeslagen [1442/1442]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/sprite.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 4227 (4,1K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/sprite.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/sprite 100%[==================================================================================================================================================================================================>]   4,13K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (15,6 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/sprite.png’' opgeslagen [4227/4227]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/contentPatternTop.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 142 [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/contentPatternTop.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/conten 100%[==================================================================================================================================================================================================>]     142  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (8,46 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/contentPatternTop.png’' opgeslagen [142/142]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/contentPatternLeft.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 137 [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/contentPatternLeft.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/conten 100%[==================================================================================================================================================================================================>]     137  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (26,1 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/contentPatternLeft.png’' opgeslagen [137/137]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/contentPatternRight.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 136 [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/contentPatternRight.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/conten 100%[==================================================================================================================================================================================================>]     136  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (25,9 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/contentPatternRight.png’' opgeslagen [136/136]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/loader.gif
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 2545 (2,5K) [image/gif]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/loader.gif’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/loader 100%[==================================================================================================================================================================================================>]   2,49K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (22,1 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/loader.gif’' opgeslagen [2545/2545]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/btnNext.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 845 [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/btnNext.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/btnNex 100%[==================================================================================================================================================================================================>]     845  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (201 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/btnNext.png’' opgeslagen [845/845]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/btnPrevious.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 828 [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/btnPrevious.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/btnPre 100%[==================================================================================================================================================================================================>]     828  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (158 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/btnPrevious.png’' opgeslagen [828/828]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/contentPatternBottom.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 142 [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/contentPatternBottom.png’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/conten 100%[==================================================================================================================================================================================================>]     142  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (16,9 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/contentPatternBottom.png’' opgeslagen [142/142]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/default_thumbnail.gif
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 227 [image/gif]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/default_thumbnail.gif’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/defaul 100%[==================================================================================================================================================================================================>]     227  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (43,3 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/facebook/default_thumbnail.gif’' opgeslagen [227/227]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/loader.gif
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 2545 (2,5K) [image/gif]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/loader.gif’
+
+fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/l 100%[==================================================================================================================================================================================================>]   2,49K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (485 MB/s) - '‘fullreserve.nl/restart/js/prettyPhoto_3.1.5/images/prettyPhoto/light_rounded/loader.gif’' opgeslagen [2545/2545]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/fonts/glyphicons-halflings-regular.eot
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 404 Not Found
+2020-07-20 11:09:05 Fout 404: Not Found.
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/fonts/glyphicons-halflings-regular.eot?
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 404 Not Found
+2020-07-20 11:09:05 Fout 404: Not Found.
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/fonts/glyphicons-halflings-regular.woff2
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 404 Not Found
+2020-07-20 11:09:05 Fout 404: Not Found.
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/fonts/glyphicons-halflings-regular.woff
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 404 Not Found
+2020-07-20 11:09:05 Fout 404: Not Found.
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/fonts/glyphicons-halflings-regular.ttf
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 404 Not Found
+2020-07-20 11:09:05 Fout 404: Not Found.
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/fonts/glyphicons-halflings-regular.svg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 404 Not Found
+2020-07-20 11:09:05 Fout 404: Not Found.
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/images/backgrounds/wild_oliva_dark.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 27663 (27K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/images/backgrounds/wild_oliva_dark.png’
+
+fullreserve.nl/restart/images/backgrounds/wild_oliva_dark.png                  100%[==================================================================================================================================================================================================>]  27,01K  --.-KB/s    in 0,005s  
+
+2020-07-20 11:09:05 (5,04 MB/s) - '‘fullreserve.nl/restart/images/backgrounds/wild_oliva_dark.png’' opgeslagen [27663/27663]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/images/portfolio/rating_stars.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 2090 (2,0K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/images/portfolio/rating_stars.png’
+
+fullreserve.nl/restart/images/portfolio/rating_stars.png                       100%[==================================================================================================================================================================================================>]   2,04K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (221 MB/s) - '‘fullreserve.nl/restart/images/portfolio/rating_stars.png’' opgeslagen [2090/2090]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/images/ui.totop.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 3144 (3,1K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/images/ui.totop.png’
+
+fullreserve.nl/restart/images/ui.totop.png                                     100%[==================================================================================================================================================================================================>]   3,07K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (214 MB/s) - '‘fullreserve.nl/restart/images/ui.totop.png’' opgeslagen [3144/3144]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/fullreserve/images/pijltjes.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 27983 (27K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/fullreserve/images/pijltjes.jpg’
+
+fullreserve.nl/fullreserve/images/pijltjes.jpg                                 100%[==================================================================================================================================================================================================>]  27,33K  --.-KB/s    in 0,005s  
+
+2020-07-20 11:09:05 (5,75 MB/s) - '‘fullreserve.nl/fullreserve/images/pijltjes.jpg’' opgeslagen [27983/27983]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.0.0
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 38239 (37K) [application/vnd.ms-fontobject]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.0.0’
+
+fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.0. 100%[==================================================================================================================================================================================================>]  37,34K  --.-KB/s    in 0s      
+
+2020-07-20 11:09:05 (173 MB/s) - '‘fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.0.0’' opgeslagen [38239/38239]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.eot?
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 38239 (37K) [application/vnd.ms-fontobject]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.eot?’
+
+fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.eot?       100%[==================================================================================================================================================================================================>]  37,34K  --.-KB/s    in 0,007s  
+
+2020-07-20 11:09:05 (5,24 MB/s) - '‘fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.eot?’' opgeslagen [38239/38239]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.0
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 44476 (43K) [application/font-woff]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.0’
+
+fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.0 100%[==================================================================================================================================================================================================>]  43,43K  --.-KB/s    in 0,008s  
+
+2020-07-20 11:09:05 (5,29 MB/s) - '‘fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.0’' opgeslagen [44476/44476]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.0.0
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 80776 (79K) [application/font-sfnt]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.0.0’
+
+fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.0. 100%[==================================================================================================================================================================================================>]  78,88K  --.-KB/s    in 0,02s   
+
+2020-07-20 11:09:05 (4,45 MB/s) - '‘fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.0.0’' opgeslagen [80776/80776]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.0.0
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 202884 (198K) [image/svg+xml]
+Wordt opgeslagen als: ‘fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.0.0’
+
+fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.0. 100%[==================================================================================================================================================================================================>] 198,13K  --.-KB/s    in 0,05s   
+
+2020-07-20 11:09:05 (4,24 MB/s) - '‘fullreserve.nl/restart/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.0.0’' opgeslagen [202884/202884]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/page/home/
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 404 Not Found
+2020-07-20 11:09:05 Fout 404: Not Found.
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/fullreserve/team/Paul.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 72192 (70K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/fullreserve/team/Paul.jpg’
+
+fullreserve.nl/fullreserve/team/Paul.jpg                                       100%[==================================================================================================================================================================================================>]  70,50K  --.-KB/s    in 0,01s   
+
+2020-07-20 11:09:05 (5,25 MB/s) - '‘fullreserve.nl/fullreserve/team/Paul.jpg’' opgeslagen [72192/72192]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/fullreserve/team/Niels.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 87365 (85K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/fullreserve/team/Niels.jpg’
+
+fullreserve.nl/fullreserve/team/Niels.jpg                                      100%[==================================================================================================================================================================================================>]  85,32K  --.-KB/s    in 0,02s   
+
+2020-07-20 11:09:05 (5,16 MB/s) - '‘fullreserve.nl/fullreserve/team/Niels.jpg’' opgeslagen [87365/87365]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/fullreserve/team/Richard.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 63395 (62K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/fullreserve/team/Richard.jpg’
+
+fullreserve.nl/fullreserve/team/Richard.jpg                                    100%[==================================================================================================================================================================================================>]  61,91K  --.-KB/s    in 0,01s   
+
+2020-07-20 11:09:05 (5,16 MB/s) - '‘fullreserve.nl/fullreserve/team/Richard.jpg’' opgeslagen [63395/63395]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/page/index.html
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 404 Not Found
+2020-07-20 11:09:05 Fout 404: Not Found.
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/fullreserve/contentimg/deposito_screenshot2.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 128195 (125K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/fullreserve/contentimg/deposito_screenshot2.jpg’
+
+fullreserve.nl/fullreserve/contentimg/deposito_screenshot2.jpg                 100%[==================================================================================================================================================================================================>] 125,19K  --.-KB/s    in 0,02s   
+
+2020-07-20 11:09:05 (5,12 MB/s) - '‘fullreserve.nl/fullreserve/contentimg/deposito_screenshot2.jpg’' opgeslagen [128195/128195]
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/blog/index.html
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 404 Not Found
+2020-07-20 11:09:05 Fout 404: Not Found.
+
+--2020-07-20 11:09:05--  http://fullreserve.nl/blog/Gevangen-niemandsland-Tweede-Kamer-DNB
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: niet-opgegeven [text/html]
+Wordt opgeslagen als: ‘fullreserve.nl/blog/Gevangen-niemandsland-Tweede-Kamer-DNB.html’
+
+fullreserve.nl/blog/Gevangen-niemandsland-Tweede-Kamer-DNB.html                    [ <=>                                                                                                                                                                                               ]  16,08K  --.-KB/s    in 0,001s  
+
+2020-07-20 11:09:06 (24,3 MB/s) - '‘fullreserve.nl/blog/Gevangen-niemandsland-Tweede-Kamer-DNB.html’' opgeslagen [16469]
+
+--2020-07-20 11:09:06--  http://fullreserve.nl/blog/Vergunning-gate
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: niet-opgegeven [text/html]
+Wordt opgeslagen als: ‘fullreserve.nl/blog/Vergunning-gate.html’
+
+fullreserve.nl/blog/Vergunning-gate.html                                           [ <=>                                                                                                                                                                                               ]  10,15K  --.-KB/s    in 0,002s  
+
+2020-07-20 11:09:06 (6,47 MB/s) - '‘fullreserve.nl/blog/Vergunning-gate.html’' opgeslagen [10389]
+
+--2020-07-20 11:09:06--  http://fullreserve.nl/blog/Nieuwe%20website
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: niet-opgegeven [text/html]
+Wordt opgeslagen als: ‘fullreserve.nl/blog/Nieuwe website.html’
+
+fullreserve.nl/blog/Nieuwe website.html                                            [ <=>                                                                                                                                                                                               ]   9,88K  --.-KB/s    in 0,002s  
+
+2020-07-20 11:09:06 (6,26 MB/s) - '‘fullreserve.nl/blog/Nieuwe website.html’' opgeslagen [10121]
+
+--2020-07-20 11:09:06--  http://fullreserve.nl/images/media/cropped/2a108a7731cfbaaf9ec7628490d6838e11539c7a.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 705791 (689K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/2a108a7731cfbaaf9ec7628490d6838e11539c7a.png’
+
+fullreserve.nl/images/media/cropped/2a108a7731cfbaaf9ec7628490d6838e11539c7a.p 100%[==================================================================================================================================================================================================>] 689,25K  --.-KB/s    in 0,1s    
+
+2020-07-20 11:09:06 (5,00 MB/s) - '‘fullreserve.nl/images/media/cropped/2a108a7731cfbaaf9ec7628490d6838e11539c7a.png’' opgeslagen [705791/705791]
+
+--2020-07-20 11:09:06--  http://fullreserve.nl/images/media/cropped/5a8da6f24ae7b0b3e7095e8c079bb533bcd7bce3.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 61757 (60K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/5a8da6f24ae7b0b3e7095e8c079bb533bcd7bce3.jpg’
+
+fullreserve.nl/images/media/cropped/5a8da6f24ae7b0b3e7095e8c079bb533bcd7bce3.j 100%[==================================================================================================================================================================================================>]  60,31K  --.-KB/s    in 0,01s   
+
+2020-07-20 11:09:06 (5,15 MB/s) - '‘fullreserve.nl/images/media/cropped/5a8da6f24ae7b0b3e7095e8c079bb533bcd7bce3.jpg’' opgeslagen [61757/61757]
+
+--2020-07-20 11:09:06--  http://fullreserve.nl/images/media/cropped/6fd023cc8e295b93dd60ab304e7c0c073b40bc7f.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 126433 (123K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/6fd023cc8e295b93dd60ab304e7c0c073b40bc7f.jpg’
+
+fullreserve.nl/images/media/cropped/6fd023cc8e295b93dd60ab304e7c0c073b40bc7f.j 100%[==================================================================================================================================================================================================>] 123,47K  --.-KB/s    in 0,02s   
+
+2020-07-20 11:09:06 (5,12 MB/s) - '‘fullreserve.nl/images/media/cropped/6fd023cc8e295b93dd60ab304e7c0c073b40bc7f.jpg’' opgeslagen [126433/126433]
+
+--2020-07-20 11:09:06--  http://fullreserve.nl/images/media/cropped/40fb3cf1a3359619af24e3d8f9402491bda00429.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 75328 (74K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/40fb3cf1a3359619af24e3d8f9402491bda00429.jpg’
+
+fullreserve.nl/images/media/cropped/40fb3cf1a3359619af24e3d8f9402491bda00429.j 100%[==================================================================================================================================================================================================>]  73,56K  --.-KB/s    in 0,01s   
+
+2020-07-20 11:09:06 (5,01 MB/s) - '‘fullreserve.nl/images/media/cropped/40fb3cf1a3359619af24e3d8f9402491bda00429.jpg’' opgeslagen [75328/75328]
+
+--2020-07-20 11:09:06--  http://fullreserve.nl/images/media/cropped/5978b6082f427d606cb5c6c51bcac0b6543a5bad.jpg
+Verbinding maken met fullreserve.nl (fullreserve.nl)|188.226.246.185|:80... verbonden.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 19944 (19K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/5978b6082f427d606cb5c6c51bcac0b6543a5bad.jpg’
+
+fullreserve.nl/images/media/cropped/5978b6082f427d606cb5c6c51bcac0b6543a5bad.j 100%[==================================================================================================================================================================================================>]  19,48K  --.-KB/s    in 0,01s   
+
+2020-07-20 11:09:06 (1,92 MB/s) - '‘fullreserve.nl/images/media/cropped/5978b6082f427d606cb5c6c51bcac0b6543a5bad.jpg’' opgeslagen [19944/19944]
+
+--2020-07-20 11:09:06--  http://fullreserve.nl/images/media/cropped/cac8f063a0e83acd4ecbb102cc89332920b40dc5.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 62022 (61K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/cac8f063a0e83acd4ecbb102cc89332920b40dc5.jpg’
+
+fullreserve.nl/images/media/cropped/cac8f063a0e83acd4ecbb102cc89332920b40dc5.j 100%[==================================================================================================================================================================================================>]  60,57K  --.-KB/s    in 0,02s   
+
+2020-07-20 11:09:06 (3,72 MB/s) - '‘fullreserve.nl/images/media/cropped/cac8f063a0e83acd4ecbb102cc89332920b40dc5.jpg’' opgeslagen [62022/62022]
+
+--2020-07-20 11:09:06--  http://fullreserve.nl/images/media/cropped/bde4733337acf802309b819d8891cea4e3b815d5.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 43745 (43K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/bde4733337acf802309b819d8891cea4e3b815d5.jpg’
+
+fullreserve.nl/images/media/cropped/bde4733337acf802309b819d8891cea4e3b815d5.j 100%[==================================================================================================================================================================================================>]  42,72K  --.-KB/s    in 0,008s  
+
+2020-07-20 11:09:06 (5,33 MB/s) - '‘fullreserve.nl/images/media/cropped/bde4733337acf802309b819d8891cea4e3b815d5.jpg’' opgeslagen [43745/43745]
+
+--2020-07-20 11:09:06--  http://fullreserve.nl/images/media/cropped/6f2178365b17cf2bde357ec7c84e30710180782b.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 705791 (689K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/6f2178365b17cf2bde357ec7c84e30710180782b.png’
+
+fullreserve.nl/images/media/cropped/6f2178365b17cf2bde357ec7c84e30710180782b.p 100%[==================================================================================================================================================================================================>] 689,25K  4,18MB/s    in 0,2s    
+
+2020-07-20 11:09:06 (4,18 MB/s) - '‘fullreserve.nl/images/media/cropped/6f2178365b17cf2bde357ec7c84e30710180782b.png’' opgeslagen [705791/705791]
+
+--2020-07-20 11:09:06--  http://fullreserve.nl/images/media/cropped/ebd2d68ad778f8d4ef7aa529c02b6b8f6f6e4ed7.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 493001 (481K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/ebd2d68ad778f8d4ef7aa529c02b6b8f6f6e4ed7.jpg’
+
+fullreserve.nl/images/media/cropped/ebd2d68ad778f8d4ef7aa529c02b6b8f6f6e4ed7.j 100%[==================================================================================================================================================================================================>] 481,45K  2,87MB/s    in 0,2s    
+
+2020-07-20 11:09:06 (2,87 MB/s) - '‘fullreserve.nl/images/media/cropped/ebd2d68ad778f8d4ef7aa529c02b6b8f6f6e4ed7.jpg’' opgeslagen [493001/493001]
+
+--2020-07-20 11:09:06--  http://fullreserve.nl/images/media/cropped/90b99f09dd4a863007e5dde9007c4d125658ade5.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 705791 (689K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/90b99f09dd4a863007e5dde9007c4d125658ade5.png’
+
+fullreserve.nl/images/media/cropped/90b99f09dd4a863007e5dde9007c4d125658ade5.p 100%[==================================================================================================================================================================================================>] 689,25K  2,83MB/s    in 0,2s    
+
+2020-07-20 11:09:06 (2,83 MB/s) - '‘fullreserve.nl/images/media/cropped/90b99f09dd4a863007e5dde9007c4d125658ade5.png’' opgeslagen [705791/705791]
+
+--2020-07-20 11:09:06--  http://fullreserve.nl/images/media/cropped/d80a49a8fddcdae40b9f9e40f7de6f53d6a0dc71.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 227683 (222K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/d80a49a8fddcdae40b9f9e40f7de6f53d6a0dc71.jpg’
+
+fullreserve.nl/images/media/cropped/d80a49a8fddcdae40b9f9e40f7de6f53d6a0dc71.j 100%[==================================================================================================================================================================================================>] 222,35K  --.-KB/s    in 0,07s   
+
+2020-07-20 11:09:07 (3,12 MB/s) - '‘fullreserve.nl/images/media/cropped/d80a49a8fddcdae40b9f9e40f7de6f53d6a0dc71.jpg’' opgeslagen [227683/227683]
+
+--2020-07-20 11:09:07--  http://fullreserve.nl/images/media/cropped/04d3a4244b44b69a135c278af68902b4dd75a354.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 115805 (113K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/04d3a4244b44b69a135c278af68902b4dd75a354.jpg’
+
+fullreserve.nl/images/media/cropped/04d3a4244b44b69a135c278af68902b4dd75a354.j 100%[==================================================================================================================================================================================================>] 113,09K  --.-KB/s    in 0,03s   
+
+2020-07-20 11:09:07 (3,73 MB/s) - '‘fullreserve.nl/images/media/cropped/04d3a4244b44b69a135c278af68902b4dd75a354.jpg’' opgeslagen [115805/115805]
+
+--2020-07-20 11:09:07--  http://fullreserve.nl/images/media/cropped/b33add4652592619f5ae8a00fca93901ec07cb3d.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 493001 (481K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/b33add4652592619f5ae8a00fca93901ec07cb3d.jpg’
+
+fullreserve.nl/images/media/cropped/b33add4652592619f5ae8a00fca93901ec07cb3d.j 100%[==================================================================================================================================================================================================>] 481,45K  2,88MB/s    in 0,2s    
+
+2020-07-20 11:09:07 (2,88 MB/s) - '‘fullreserve.nl/images/media/cropped/b33add4652592619f5ae8a00fca93901ec07cb3d.jpg’' opgeslagen [493001/493001]
+
+--2020-07-20 11:09:07--  http://fullreserve.nl/images/media/cropped/d61b0910763df8a11ba8c7aa94e8e5c3eeb61317.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 24747 (24K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/d61b0910763df8a11ba8c7aa94e8e5c3eeb61317.png’
+
+fullreserve.nl/images/media/cropped/d61b0910763df8a11ba8c7aa94e8e5c3eeb61317.p 100%[==================================================================================================================================================================================================>]  24,17K  --.-KB/s    in 0,004s  
+
+2020-07-20 11:09:07 (5,64 MB/s) - '‘fullreserve.nl/images/media/cropped/d61b0910763df8a11ba8c7aa94e8e5c3eeb61317.png’' opgeslagen [24747/24747]
+
+--2020-07-20 11:09:07--  http://fullreserve.nl/images/media/cropped/14cc95be29e4cd5b3bdde75e1a90040e6ee69fa4.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 23728 (23K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/14cc95be29e4cd5b3bdde75e1a90040e6ee69fa4.png’
+
+fullreserve.nl/images/media/cropped/14cc95be29e4cd5b3bdde75e1a90040e6ee69fa4.p 100%[==================================================================================================================================================================================================>]  23,17K  --.-KB/s    in 0,004s  
+
+2020-07-20 11:09:07 (5,68 MB/s) - '‘fullreserve.nl/images/media/cropped/14cc95be29e4cd5b3bdde75e1a90040e6ee69fa4.png’' opgeslagen [23728/23728]
+
+--2020-07-20 11:09:07--  http://fullreserve.nl/images/media/cropped/af563224899626668456b9a58d45790535dc888f.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 23728 (23K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/af563224899626668456b9a58d45790535dc888f.png’
+
+fullreserve.nl/images/media/cropped/af563224899626668456b9a58d45790535dc888f.p 100%[==================================================================================================================================================================================================>]  23,17K  --.-KB/s    in 0,004s  
+
+2020-07-20 11:09:07 (5,76 MB/s) - '‘fullreserve.nl/images/media/cropped/af563224899626668456b9a58d45790535dc888f.png’' opgeslagen [23728/23728]
+
+--2020-07-20 11:09:07--  http://fullreserve.nl/images/media/cropped/c0e704be590a5e65ed1d41ee34db46fdc0ee63a5.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 295715 (289K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/c0e704be590a5e65ed1d41ee34db46fdc0ee63a5.png’
+
+fullreserve.nl/images/media/cropped/c0e704be590a5e65ed1d41ee34db46fdc0ee63a5.p 100%[==================================================================================================================================================================================================>] 288,78K  --.-KB/s    in 0,08s   
+
+2020-07-20 11:09:07 (3,52 MB/s) - '‘fullreserve.nl/images/media/cropped/c0e704be590a5e65ed1d41ee34db46fdc0ee63a5.png’' opgeslagen [295715/295715]
+
+--2020-07-20 11:09:07--  http://fullreserve.nl/images/media/cropped/f7c218751c6165fd6a647e0bfd54a7c764812ba0.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 484111 (473K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/f7c218751c6165fd6a647e0bfd54a7c764812ba0.jpg’
+
+fullreserve.nl/images/media/cropped/f7c218751c6165fd6a647e0bfd54a7c764812ba0.j 100%[==================================================================================================================================================================================================>] 472,76K  2,90MB/s    in 0,2s    
+
+2020-07-20 11:09:07 (2,90 MB/s) - '‘fullreserve.nl/images/media/cropped/f7c218751c6165fd6a647e0bfd54a7c764812ba0.jpg’' opgeslagen [484111/484111]
+
+--2020-07-20 11:09:07--  http://fullreserve.nl/images/media/cropped/d7ae1d1747c790523a77a15694a724d1e72c56d2.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 44500 (43K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/d7ae1d1747c790523a77a15694a724d1e72c56d2.jpg’
+
+fullreserve.nl/images/media/cropped/d7ae1d1747c790523a77a15694a724d1e72c56d2.j 100%[==================================================================================================================================================================================================>]  43,46K  --.-KB/s    in 0,008s  
+
+2020-07-20 11:09:07 (5,23 MB/s) - '‘fullreserve.nl/images/media/cropped/d7ae1d1747c790523a77a15694a724d1e72c56d2.jpg’' opgeslagen [44500/44500]
+
+--2020-07-20 11:09:07--  http://fullreserve.nl/images/media/cropped/23fbf06e379271ef66797f7c41a1332d30f45ef2.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 361322 (353K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/23fbf06e379271ef66797f7c41a1332d30f45ef2.jpg’
+
+fullreserve.nl/images/media/cropped/23fbf06e379271ef66797f7c41a1332d30f45ef2.j 100%[==================================================================================================================================================================================================>] 352,85K  --.-KB/s    in 0,1s    
+
+2020-07-20 11:09:07 (3,01 MB/s) - '‘fullreserve.nl/images/media/cropped/23fbf06e379271ef66797f7c41a1332d30f45ef2.jpg’' opgeslagen [361322/361322]
+
+--2020-07-20 11:09:07--  http://fullreserve.nl/images/media/cropped/c5bba73d625df1d36e564f6bbe8592fe4002d49e.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 426228 (416K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/c5bba73d625df1d36e564f6bbe8592fe4002d49e.jpg’
+
+fullreserve.nl/images/media/cropped/c5bba73d625df1d36e564f6bbe8592fe4002d49e.j 100%[==================================================================================================================================================================================================>] 416,24K  --.-KB/s    in 0,1s    
+
+2020-07-20 11:09:07 (2,92 MB/s) - '‘fullreserve.nl/images/media/cropped/c5bba73d625df1d36e564f6bbe8592fe4002d49e.jpg’' opgeslagen [426228/426228]
+
+--2020-07-20 11:09:07--  http://fullreserve.nl/images/media/cropped/07d62541c72f52ed807df22673cb856192a3e79e.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 23827 (23K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/07d62541c72f52ed807df22673cb856192a3e79e.png’
+
+fullreserve.nl/images/media/cropped/07d62541c72f52ed807df22673cb856192a3e79e.p 100%[==================================================================================================================================================================================================>]  23,27K  --.-KB/s    in 0,004s  
+
+2020-07-20 11:09:07 (6,29 MB/s) - '‘fullreserve.nl/images/media/cropped/07d62541c72f52ed807df22673cb856192a3e79e.png’' opgeslagen [23827/23827]
+
+--2020-07-20 11:09:07--  http://fullreserve.nl/images/media/cropped/603c2300e9f655273b7a5ff2e0a4f70cbdc31a8c.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 361322 (353K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/603c2300e9f655273b7a5ff2e0a4f70cbdc31a8c.jpg’
+
+fullreserve.nl/images/media/cropped/603c2300e9f655273b7a5ff2e0a4f70cbdc31a8c.j 100%[==================================================================================================================================================================================================>] 352,85K  --.-KB/s    in 0,1s    
+
+2020-07-20 11:09:08 (3,11 MB/s) - '‘fullreserve.nl/images/media/cropped/603c2300e9f655273b7a5ff2e0a4f70cbdc31a8c.jpg’' opgeslagen [361322/361322]
+
+--2020-07-20 11:09:08--  http://fullreserve.nl/images/media/cropped/6e468b0ad89509b2d4837625b8d424a3dfed738f.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 67549 (66K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/6e468b0ad89509b2d4837625b8d424a3dfed738f.jpg’
+
+fullreserve.nl/images/media/cropped/6e468b0ad89509b2d4837625b8d424a3dfed738f.j 100%[==================================================================================================================================================================================================>]  65,97K  --.-KB/s    in 0,01s   
+
+2020-07-20 11:09:08 (4,62 MB/s) - '‘fullreserve.nl/images/media/cropped/6e468b0ad89509b2d4837625b8d424a3dfed738f.jpg’' opgeslagen [67549/67549]
+
+--2020-07-20 11:09:08--  http://fullreserve.nl/images/media/cropped/b7d48f9ed5d530bf8bf3d04725e90a1b3015ce30.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 37620 (37K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/b7d48f9ed5d530bf8bf3d04725e90a1b3015ce30.png’
+
+fullreserve.nl/images/media/cropped/b7d48f9ed5d530bf8bf3d04725e90a1b3015ce30.p 100%[==================================================================================================================================================================================================>]  36,74K  --.-KB/s    in 0,006s  
+
+2020-07-20 11:09:08 (5,63 MB/s) - '‘fullreserve.nl/images/media/cropped/b7d48f9ed5d530bf8bf3d04725e90a1b3015ce30.png’' opgeslagen [37620/37620]
+
+--2020-07-20 11:09:08--  http://fullreserve.nl/images/media/cropped/ad3d8895c73245bd8ae81aeeb2935701762b3293.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 19967 (19K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/ad3d8895c73245bd8ae81aeeb2935701762b3293.png’
+
+fullreserve.nl/images/media/cropped/ad3d8895c73245bd8ae81aeeb2935701762b3293.p 100%[==================================================================================================================================================================================================>]  19,50K  --.-KB/s    in 0,003s  
+
+2020-07-20 11:09:08 (6,08 MB/s) - '‘fullreserve.nl/images/media/cropped/ad3d8895c73245bd8ae81aeeb2935701762b3293.png’' opgeslagen [19967/19967]
+
+--2020-07-20 11:09:08--  http://fullreserve.nl/images/media/cropped/baedb555a49f0b2dcae94eeaf770e61fbc84dfe5.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 223307 (218K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/baedb555a49f0b2dcae94eeaf770e61fbc84dfe5.png’
+
+fullreserve.nl/images/media/cropped/baedb555a49f0b2dcae94eeaf770e61fbc84dfe5.p 100%[==================================================================================================================================================================================================>] 218,07K  --.-KB/s    in 0,06s   
+
+2020-07-20 11:09:08 (3,70 MB/s) - '‘fullreserve.nl/images/media/cropped/baedb555a49f0b2dcae94eeaf770e61fbc84dfe5.png’' opgeslagen [223307/223307]
+
+--2020-07-20 11:09:08--  http://fullreserve.nl/images/media/cropped/60e526fb3db525447d4945f2cba05046b67d8ce4.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 655434 (640K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/60e526fb3db525447d4945f2cba05046b67d8ce4.png’
+
+fullreserve.nl/images/media/cropped/60e526fb3db525447d4945f2cba05046b67d8ce4.p 100%[==================================================================================================================================================================================================>] 640,07K  2,84MB/s    in 0,2s    
+
+2020-07-20 11:09:08 (2,84 MB/s) - '‘fullreserve.nl/images/media/cropped/60e526fb3db525447d4945f2cba05046b67d8ce4.png’' opgeslagen [655434/655434]
+
+--2020-07-20 11:09:08--  http://fullreserve.nl/images/media/cropped/a21085db1a2c2ed7403eff514c8b821639ad0a76.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 7275 (7,1K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/a21085db1a2c2ed7403eff514c8b821639ad0a76.png’
+
+fullreserve.nl/images/media/cropped/a21085db1a2c2ed7403eff514c8b821639ad0a76.p 100%[==================================================================================================================================================================================================>]   7,10K  --.-KB/s    in 0,001s  
+
+2020-07-20 11:09:08 (7,78 MB/s) - '‘fullreserve.nl/images/media/cropped/a21085db1a2c2ed7403eff514c8b821639ad0a76.png’' opgeslagen [7275/7275]
+
+--2020-07-20 11:09:08--  http://fullreserve.nl/images/media/cropped/5e7070ad60e00b285655d9b61a2cdda2e386e65b.jpg
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 77093 (75K) [image/jpeg]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/5e7070ad60e00b285655d9b61a2cdda2e386e65b.jpg’
+
+fullreserve.nl/images/media/cropped/5e7070ad60e00b285655d9b61a2cdda2e386e65b.j 100%[==================================================================================================================================================================================================>]  75,29K  --.-KB/s    in 0,01s   
+
+2020-07-20 11:09:08 (5,36 MB/s) - '‘fullreserve.nl/images/media/cropped/5e7070ad60e00b285655d9b61a2cdda2e386e65b.jpg’' opgeslagen [77093/77093]
+
+--2020-07-20 11:09:08--  http://fullreserve.nl/images/media/cropped/791afab102192c90c6d90b9bc434da0b83ec0ef9.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 815808 (797K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/791afab102192c90c6d90b9bc434da0b83ec0ef9.png’
+
+fullreserve.nl/images/media/cropped/791afab102192c90c6d90b9bc434da0b83ec0ef9.p 100%[==================================================================================================================================================================================================>] 796,69K  2,86MB/s    in 0,3s    
+
+2020-07-20 11:09:08 (2,86 MB/s) - '‘fullreserve.nl/images/media/cropped/791afab102192c90c6d90b9bc434da0b83ec0ef9.png’' opgeslagen [815808/815808]
+
+--2020-07-20 11:09:08--  http://fullreserve.nl/images/media/cropped/e1391025ee0a467ba508bee13f84cbbf0d0183ec.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 1186827 (1,1M) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/e1391025ee0a467ba508bee13f84cbbf0d0183ec.png’
+
+fullreserve.nl/images/media/cropped/e1391025ee0a467ba508bee13f84cbbf0d0183ec.p 100%[==================================================================================================================================================================================================>]   1,13M  2,78MB/s    in 0,4s    
+
+2020-07-20 11:09:09 (2,78 MB/s) - '‘fullreserve.nl/images/media/cropped/e1391025ee0a467ba508bee13f84cbbf0d0183ec.png’' opgeslagen [1186827/1186827]
+
+--2020-07-20 11:09:09--  http://fullreserve.nl/images/media/cropped/d826c5bb95113bdcf1ec8a59a01503f65129bfbf.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 690323 (674K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/d826c5bb95113bdcf1ec8a59a01503f65129bfbf.png’
+
+fullreserve.nl/images/media/cropped/d826c5bb95113bdcf1ec8a59a01503f65129bfbf.p 100%[==================================================================================================================================================================================================>] 674,14K  2,84MB/s    in 0,2s    
+
+2020-07-20 11:09:09 (2,84 MB/s) - '‘fullreserve.nl/images/media/cropped/d826c5bb95113bdcf1ec8a59a01503f65129bfbf.png’' opgeslagen [690323/690323]
+
+--2020-07-20 11:09:09--  http://fullreserve.nl/images/media/cropped/c32d84b8cc1e5fa74090fdfc24c465f7ddaa9964.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 579030 (565K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/c32d84b8cc1e5fa74090fdfc24c465f7ddaa9964.png’
+
+fullreserve.nl/images/media/cropped/c32d84b8cc1e5fa74090fdfc24c465f7ddaa9964.p 100%[==================================================================================================================================================================================================>] 565,46K  2,85MB/s    in 0,2s    
+
+2020-07-20 11:09:09 (2,85 MB/s) - '‘fullreserve.nl/images/media/cropped/c32d84b8cc1e5fa74090fdfc24c465f7ddaa9964.png’' opgeslagen [579030/579030]
+
+--2020-07-20 11:09:09--  http://fullreserve.nl/images/media/cropped/962a43747205d3484d0bcc371db538df5a6fd27f.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 582595 (569K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/962a43747205d3484d0bcc371db538df5a6fd27f.png’
+
+fullreserve.nl/images/media/cropped/962a43747205d3484d0bcc371db538df5a6fd27f.p 100%[==================================================================================================================================================================================================>] 568,94K  2,85MB/s    in 0,2s    
+
+2020-07-20 11:09:09 (2,85 MB/s) - '‘fullreserve.nl/images/media/cropped/962a43747205d3484d0bcc371db538df5a6fd27f.png’' opgeslagen [582595/582595]
+
+--2020-07-20 11:09:09--  http://fullreserve.nl/images/media/cropped/d105f6af4466ffbdf8a2ca97fc9d06a4d4f360d2.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 622258 (608K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/images/media/cropped/d105f6af4466ffbdf8a2ca97fc9d06a4d4f360d2.png’
+
+fullreserve.nl/images/media/cropped/d105f6af4466ffbdf8a2ca97fc9d06a4d4f360d2.p 100%[==================================================================================================================================================================================================>] 607,67K  2,83MB/s    in 0,2s    
+
+2020-07-20 11:09:09 (2,83 MB/s) - '‘fullreserve.nl/images/media/cropped/d105f6af4466ffbdf8a2ca97fc9d06a4d4f360d2.png’' opgeslagen [622258/622258]
+
+--2020-07-20 11:09:09--  http://fullreserve.nl/index.html
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 404 Not Found
+2020-07-20 11:09:09 Fout 404: Not Found.
+
+--2020-07-20 11:09:09--  http://fullreserve.nl/fullreserve/logo/square-500.png
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 200 OK
+Lengte: 18631 (18K) [image/png]
+Wordt opgeslagen als: ‘fullreserve.nl/fullreserve/logo/square-500.png’
+
+fullreserve.nl/fullreserve/logo/square-500.png                                 100%[==================================================================================================================================================================================================>]  18,19K  --.-KB/s    in 0,003s  
+
+2020-07-20 11:09:10 (5,73 MB/s) - '‘fullreserve.nl/fullreserve/logo/square-500.png’' opgeslagen [18631/18631]
+
+--2020-07-20 11:09:10--  http://fullreserve.nl/js/restart_theme.js
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 404 Not Found
+2020-07-20 11:09:10 Fout 404: Not Found.
+
+--2020-07-20 11:09:10--  http://fullreserve.nl/js/contact_form.js
+Verbinding met fullreserve.nl:80 wordt hergebruikt.
+HTTP-verzoek is verzonden; wachten op antwoord... 404 Not Found
+2020-07-20 11:09:10 Fout 404: Not Found.
+
+KLAAR --2020-07-20 11:09:10--
+Totaal verlopen tijd: 8,9s
+Opgehaald: 125 bestanden, 13M in 3,9s (3,37 MB/s)
